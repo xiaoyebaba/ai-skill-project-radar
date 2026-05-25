@@ -1,0 +1,377 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T09:30:49.923051+00:00",
+  "count": 43,
+  "items": [
+    {
+      "id": "13ab941b8fc7",
+      "title": "Too Much Work to Do? Have Your Digital Twin Handle It",
+      "url": "https://www.wsj.com/tech/ai/ai-agents-work-executives-a38400e1",
+      "source": "Hacker News: AI agents",
+      "type": "article",
+      "note": "HN points: 2"
+    },
+    {
+      "id": "fce41af6f40c",
+      "title": "Show HN: Cordium – FOSS sandbox platform with secretless infrastructure access",
+      "url": "https://github.com/octelium/cordium",
+      "source": "Hacker News: AI agents",
+      "type": "article",
+      "note": "HN points: 2"
+    },
+    {
+      "id": "3df04c6bffa5",
+      "title": "Kevin O'Leary wants AI data centre in Utah. Some residents aren't happy",
+      "url": "https://www.cbc.ca/news/world/kevin-oleary-data-centre-utah-9.7207716",
+      "source": "Hacker News: AI agents",
+      "type": "article",
+      "note": "HN points: 4"
+    },
+    {
+      "id": "47018920421e",
+      "title": "My AI coding flow was burning tokens to do things code should do",
+      "url": "https://geerttheys.substack.com/p/i-agent-deterministic-coding-flow",
+      "source": "Hacker News: AI agents",
+      "type": "article",
+      "note": "HN points: 3"
+    },
+    {
+      "id": "b77d21593748",
+      "title": "Show HN: Live AI music sequencing agent",
+      "url": "https://pretzel.shukant.com/?nickname=Anonymous&role=stage",
+      "source": "Hacker News: AI agents",
+      "type": "article",
+      "note": "HN points: 2"
+    },
+    {
+      "id": "0073da988b53",
+      "title": "Anthropic and OpenAI race to embed engineers inside Wall Street workflows",
+      "url": "https://thenewstack.io/anthropic-openai-wall-street-ai-agents-developers/",
+      "source": "Hacker News: AI agents",
+      "type": "article",
+      "note": "HN points: 1"
+    },
+    {
+      "id": "a4b70096fe9e",
+      "title": "Authorization layer for AI agents (OAuth has no idea what your agent is doing)",
+      "url": "https://www.tryagentgate.com/",
+      "source": "Hacker News: AI agents",
+      "type": "article",
+      "note": "HN points: 2"
+    },
+    {
+      "id": "b80968c35591",
+      "title": "Layman with no degree directs AI agents to derive Newton's G to 1.86 ppm",
+      "url": "https://github.com/oldrich-research/gravitational-constant-relation",
+      "source": "Hacker News: AI agents",
+      "type": "article",
+      "note": "HN points: 4"
+    },
+    {
+      "id": "42e492c355a6",
+      "title": "AI agents just got their own web browser via a Firefox fork",
+      "url": "https://blog.adafruit.com/2026/05/19/ai-agents-just-got-their-own-web-browser-via-a-firefox-fork/",
+      "source": "Hacker News: AI agents",
+      "type": "article",
+      "note": "HN points: 2"
+    },
+    {
+      "id": "9065537ac408",
+      "title": "Show HN: Simple Sprite Sheet Generation",
+      "url": "https://github.com/acatovic/ai-game-studio",
+      "source": "Hacker News: AI agents",
+      "type": "article",
+      "note": "HN points: 3"
+    },
+    {
+      "id": "864446901ae4",
+      "title": "Show HN: 18 y/o – built the world's first behavioural intelligence platform",
+      "url": "https://www.assemblr.net/",
+      "source": "Hacker News: AI agents",
+      "type": "article",
+      "note": "HN points: 2"
+    },
+    {
+      "id": "ccefc419d43e",
+      "title": "Show HN: TalkTimer, a micro-SaaS run by an AI agent team",
+      "url": "https://talktimer.co",
+      "source": "Hacker News: AI agents",
+      "type": "article",
+      "note": "HN points: 1"
+    },
+    {
+      "id": "559f30094703",
+      "title": "Show HN: Porting my Newsletter to MCP – You set WHEN and HOW OFTEN to receive it",
+      "url": "https://forwardpasstechnology.substack.com/p/you-decide-when-you-receive-forwardpass",
+      "source": "Hacker News: MCP",
+      "type": "article",
+      "note": "HN points: 2"
+    },
+    {
+      "id": "fe7e6ca4aa88",
+      "title": "Preventing AI agents from executing destructive terminal commands",
+      "url": "https://github.com/7Majesty-M/terminal-guardian-mcp",
+      "source": "Hacker News: MCP",
+      "type": "article",
+      "note": "HN points: 1"
+    },
+    {
+      "id": "7fe566629fe8",
+      "title": "Show HN: TapToyPia",
+      "url": "https://memalign.github.io/m/taptoypia/index.html",
+      "source": "Hacker News: MCP",
+      "type": "article",
+      "note": "HN points: 1"
+    },
+    {
+      "id": "b4b240c30f38",
+      "title": "Verytis – shared error memory for AI coding agents (MCP)",
+      "url": "https://www.verytis.com",
+      "source": "Hacker News: MCP",
+      "type": "article",
+      "note": "HN points: 3"
+    },
+    {
+      "id": "fe58502296a6",
+      "title": "SafeDB MCP – safer read-only database access for AI agents",
+      "url": "https://github.com/narekmalk/safedb-mcp",
+      "source": "Hacker News: MCP",
+      "type": "article",
+      "note": "HN points: 3"
+    },
+    {
+      "id": "7c355acbf4ff",
+      "title": "Show HN: CoreMem – Portable context for AI agents",
+      "url": "https://coremem.app",
+      "source": "Hacker News: MCP",
+      "type": "article",
+      "note": "HN points: 5"
+    },
+    {
+      "id": "988f2bcfec4c",
+      "title": "Show HN: Interactive first-principles climate physics simulation with explainer",
+      "url": "https://earth.crackalamoo.com",
+      "source": "Hacker News: MCP",
+      "type": "article",
+      "note": "HN points: 2"
+    },
+    {
+      "id": "b75c42df83b5",
+      "title": "Lucy – pay-per-task AI agent in USDC, no subscription (A2A/MCP/x402)",
+      "url": "https://github.com/Woodman97/lucy-agent",
+      "source": "Hacker News: MCP",
+      "type": "article",
+      "note": "HN points: 1"
+    },
+    {
+      "id": "aec2015ca58e",
+      "title": "Show HN: I threw away my analytics dashboard and replaced it with 42 MCP tools",
+      "url": "https://news.ycombinator.com/item?id=48233125",
+      "source": "Hacker News: MCP",
+      "type": "article",
+      "note": "HN points: 5"
+    },
+    {
+      "id": "4fe87e7a0213",
+      "title": "Show HN: I gave my AI video generator 86 MCP tools so Claude Code can drive it",
+      "url": "https://github.com/openclaw-easy/ViralMint",
+      "source": "Hacker News: MCP",
+      "type": "article",
+      "note": "HN points: 3"
+    },
+    {
+      "id": "6f15b346895a",
+      "title": "Show HN: SoMatic – Vision-based OS automation framework for AI agents",
+      "url": "https://github.com/Smyan1909/SoMatic",
+      "source": "Hacker News: MCP",
+      "type": "article",
+      "note": "HN points: 2"
+    },
+    {
+      "id": "ef1db9edff97",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "source": "OpenAI blog",
+      "type": "article",
+      "note": "RSS item"
+    },
+    {
+      "id": "4ce39150a4dc",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI blog",
+      "type": "article",
+      "note": "RSS item"
+    },
+    {
+      "id": "85a3fdb43c80",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "source": "OpenAI blog",
+      "type": "article",
+      "note": "RSS item"
+    },
+    {
+      "id": "7f625f666338",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source": "OpenAI blog",
+      "type": "article",
+      "note": "RSS item"
+    },
+    {
+      "id": "52bd1afbd88b",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "source": "OpenAI blog",
+      "type": "article",
+      "note": "RSS item"
+    },
+    {
+      "id": "cb920945cfca",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "source": "OpenAI blog",
+      "type": "article",
+      "note": "RSS item"
+    },
+    {
+      "id": "e0640ad0320c",
+      "title": "Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "source": "OpenAI blog",
+      "type": "article",
+      "note": "RSS item"
+    },
+    {
+      "id": "4f1431164463",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "source": "OpenAI blog",
+      "type": "article",
+      "note": "RSS item"
+    },
+    {
+      "id": "210c7a7c7826",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "source": "OpenAI blog",
+      "type": "article",
+      "note": "RSS item"
+    },
+    {
+      "id": "f0106247dee4",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "source": "OpenAI blog",
+      "type": "article",
+      "note": "RSS item"
+    },
+    {
+      "id": "05045fbcb55d",
+      "title": "[AINews] All Model Labs are now Agent Labs",
+      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+      "source": "Latent Space podcast",
+      "type": "video/audio",
+      "note": "RSS item"
+    },
+    {
+      "id": "fe200fe72e51",
+      "title": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
+      "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+      "source": "Latent Space podcast",
+      "type": "video/audio",
+      "note": "RSS item"
+    },
+    {
+      "id": "877fc1c75145",
+      "title": "Giving Agents Computers — Ivan Burazin, Daytona",
+      "url": "https://www.latent.space/p/daytona",
+      "source": "Latent Space podcast",
+      "type": "video/audio",
+      "note": "RSS item"
+    },
+    {
+      "id": "49c9de80a6ae",
+      "title": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
+      "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+      "source": "Latent Space podcast",
+      "type": "video/audio",
+      "note": "RSS item"
+    },
+    {
+      "id": "c72c362505d3",
+      "title": "Railway: The Agent-Native Cloud — Jake Cooper",
+      "url": "https://www.latent.space/p/railway",
+      "source": "Latent Space podcast",
+      "type": "video/audio",
+      "note": "RSS item"
+    },
+    {
+      "id": "ea2cb7b986cf",
+      "title": "[AINews] Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
+      "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
+      "source": "Latent Space podcast",
+      "type": "video/audio",
+      "note": "RSS item"
+    },
+    {
+      "id": "8f8ee2e0b82e",
+      "title": "[AINews] How to land a job at a frontier lab (on Pretraining)",
+      "url": "https://www.latent.space/p/ainews-how-to-land-a-job-at-a-frontier",
+      "source": "Latent Space podcast",
+      "type": "video/audio",
+      "note": "RSS item"
+    },
+    {
+      "id": "964f9151fcaf",
+      "title": "The Autonomous Drone Tech Stack & Economics of Drones — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
+      "url": "https://www.latent.space/p/the-fourth-law",
+      "source": "Latent Space podcast",
+      "type": "video/audio",
+      "note": "RSS item"
+    },
+    {
+      "id": "53a62602c298",
+      "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
+      "url": "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
+      "source": "Latent Space podcast",
+      "type": "video/audio",
+      "note": "RSS item"
+    },
+    {
+      "id": "a4e4814a5ae7",
+      "title": "[AINews] Everything is Conductor",
+      "url": "https://www.latent.space/p/ainews-everything-is-conductor",
+      "source": "Latent Space podcast",
+      "type": "video/audio",
+      "note": "RSS item"
+    }
+  ],
+  "errors": [
+    {
+      "source": "GitHub AI Agent topic",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "source": "GitHub MCP topic",
+      "error": "The read operation timed out"
+    },
+    {
+      "source": "GitHub LLM Agents topic",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "source": "Hugging Face blog",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "source": "Anthropic news",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source": "LangChain blog",
+      "error": "<urlopen error timed out>"
+    }
+  ]
+}

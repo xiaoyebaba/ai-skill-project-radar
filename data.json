@@ -1,0 +1,485 @@
+{
+  "items": [
+    {
+      "name": "Claude Skills",
+      "type": "Skill",
+      "category": "AI Skills",
+      "tags": [
+        "Claude",
+        "Workflow",
+        "Reusable"
+      ],
+      "url": "https://docs.anthropic.com/en/docs/claude-code/skills",
+      "desc": "把提示词、脚本、文档打包成可复用能力包，让 AI 像装插件一样扩展技能。",
+      "why": "适合沉淀写作、汇报、代码审查、数据处理等个人/团队工作流。"
+    },
+    {
+      "name": "Model Context Protocol",
+      "type": "Protocol",
+      "category": "MCP / Tools",
+      "tags": [
+        "MCP",
+        "Agent Tools",
+        "Integration"
+      ],
+      "url": "https://modelcontextprotocol.io/",
+      "desc": "让 AI Agent 标准化连接文件、数据库、浏览器、GitHub、Slack 等外部工具。",
+      "why": "正在成为 Agent 工具体系的基础设施。"
+    },
+    {
+      "name": "MCP Servers",
+      "type": "Collection",
+      "category": "MCP / Tools",
+      "tags": [
+        "MCP",
+        "Servers",
+        "Open Source"
+      ],
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "desc": "官方 MCP Server 集合，涵盖文件系统、GitHub、数据库、浏览器等能力。",
+      "why": "可直接拆成一组“可安装 skills”来收藏。"
+    },
+    {
+      "name": "Smithery",
+      "type": "Registry",
+      "category": "MCP / Tools",
+      "tags": [
+        "MCP",
+        "Marketplace",
+        "Install"
+      ],
+      "url": "https://smithery.ai/",
+      "desc": "MCP Server 注册目录，面向即装即用的工具发现。",
+      "why": "适合追踪最新 MCP 工具和安装方式。"
+    },
+    {
+      "name": "OpenAI Agents SDK",
+      "type": "Framework",
+      "category": "Agent Frameworks",
+      "tags": [
+        "Python",
+        "Agent",
+        "SDK"
+      ],
+      "url": "https://github.com/openai/openai-agents-python",
+      "desc": "OpenAI 官方 Agent 编排 SDK，支持工具调用、handoff 与 tracing。",
+      "why": "适合做客服、研究、数据分析等多 Agent 模板。"
+    },
+    {
+      "name": "LangGraph",
+      "type": "Framework",
+      "category": "Agent Frameworks",
+      "tags": [
+        "LangChain",
+        "Graph",
+        "Production"
+      ],
+      "url": "https://github.com/langchain-ai/langgraph",
+      "desc": "用图结构构建可控、可持久化、多步骤 Agent 工作流。",
+      "why": "适合严肃工作流：审批、人机协作、循环反思、多节点任务。"
+    },
+    {
+      "name": "CrewAI",
+      "type": "Framework",
+      "category": "Agent Frameworks",
+      "tags": [
+        "Multi-agent",
+        "Team",
+        "Python"
+      ],
+      "url": "https://github.com/crewAIInc/crewAI",
+      "desc": "用角色、任务、团队的方式快速搭建多 Agent 协作。",
+      "why": "市场调研团队、内容生产团队、竞品分析团队都很好玩。"
+    },
+    {
+      "name": "Microsoft AutoGen",
+      "type": "Framework",
+      "category": "Agent Frameworks",
+      "tags": [
+        "Multi-agent",
+        "Research",
+        "Microsoft"
+      ],
+      "url": "https://github.com/microsoft/autogen",
+      "desc": "微软开源的多 Agent 对话与协作框架。",
+      "why": "适合展示 Agent 之间如何分工、辩论、协作解决问题。"
+    },
+    {
+      "name": "Pydantic AI",
+      "type": "Framework",
+      "category": "Agent Frameworks",
+      "tags": [
+        "Python",
+        "Typed",
+        "Structured"
+      ],
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "desc": "用 Pydantic 风格构建类型安全、结构化输出友好的 AI Agent。",
+      "why": "适合后端工程化、数据校验、可靠输出场景。"
+    },
+    {
+      "name": "Mastra",
+      "type": "Framework",
+      "category": "Agent Frameworks",
+      "tags": [
+        "TypeScript",
+        "Workflow",
+        "Product"
+      ],
+      "url": "https://github.com/mastra-ai/mastra",
+      "desc": "面向 TypeScript / Node.js 的 Agent 与 AI 工作流框架。",
+      "why": "适合前端/全栈开发者快速做 AI 产品脚手架。"
+    },
+    {
+      "name": "Browser Use",
+      "type": "Tool",
+      "category": "Browser Agents",
+      "tags": [
+        "Browser",
+        "Automation",
+        "RPA"
+      ],
+      "url": "https://github.com/browser-use/browser-use",
+      "desc": "让 AI 直接控制浏览器完成网页操作、填表、采集、任务执行。",
+      "why": "可玩性很强，效果直观。"
+    },
+    {
+      "name": "Stagehand",
+      "type": "Tool",
+      "category": "Browser Agents",
+      "tags": [
+        "Browserbase",
+        "Playwright",
+        "Automation"
+      ],
+      "url": "https://github.com/browserbase/stagehand",
+      "desc": "自然语言化的浏览器自动化工具，比传统脚本更适合动态网页任务。",
+      "why": "适合把网页操作流程产品化。"
+    },
+    {
+      "name": "OpenHands",
+      "type": "Project",
+      "category": "Coding Agents",
+      "tags": [
+        "Coding",
+        "Open Source",
+        "Agent"
+      ],
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "desc": "开源软件工程 Agent，可读写代码、运行命令、修复问题。",
+      "why": "“AI 程序员”方向代表项目之一。"
+    },
+    {
+      "name": "Aider",
+      "type": "Tool",
+      "category": "Coding Agents",
+      "tags": [
+        "Git",
+        "CLI",
+        "Coding"
+      ],
+      "url": "https://github.com/Aider-AI/aider",
+      "desc": "终端里的 AI pair programmer，直接基于 Git 修改代码。",
+      "why": "简单实用，适合个人开发者日常使用。"
+    },
+    {
+      "name": "Continue",
+      "type": "Tool",
+      "category": "Coding Agents",
+      "tags": [
+        "IDE",
+        "VS Code",
+        "Local Model"
+      ],
+      "url": "https://github.com/continuedev/continue",
+      "desc": "开源 AI 代码助手，可接入 VS Code / JetBrains 和自定义模型。",
+      "why": "适合自建团队内部 AI IDE。"
+    },
+    {
+      "name": "Dify",
+      "type": "Platform",
+      "category": "Workflow / App Builders",
+      "tags": [
+        "RAG",
+        "Workflow",
+        "Low-code"
+      ],
+      "url": "https://github.com/langgenius/dify",
+      "desc": "可视化搭建聊天机器人、Agent、RAG 应用和工作流。",
+      "why": "中文用户友好，不会写代码也能做 AI 应用。"
+    },
+    {
+      "name": "n8n AI Workflows",
+      "type": "Workflow",
+      "category": "Workflow / App Builders",
+      "tags": [
+        "Automation",
+        "No-code",
+        "Integration"
+      ],
+      "url": "https://github.com/n8n-io/n8n",
+      "desc": "把 AI 节点接进 Gmail、Notion、Slack、数据库等自动化流程。",
+      "why": "适合日报、线索整理、邮件分类、社媒发布。"
+    },
+    {
+      "name": "Composio",
+      "type": "Tool",
+      "category": "Workflow / App Builders",
+      "tags": [
+        "Integration",
+        "Tools",
+        "Agent"
+      ],
+      "url": "https://github.com/ComposioHQ/composio",
+      "desc": "给 AI Agent 提供大量第三方 App 工具连接能力。",
+      "why": "让 Agent 真正操作 GitHub、Linear、Gmail、Notion 等应用。"
+    },
+    {
+      "name": "Vercel AI SDK",
+      "type": "SDK",
+      "category": "Workflow / App Builders",
+      "tags": [
+        "Frontend",
+        "Streaming",
+        "Web App"
+      ],
+      "url": "https://github.com/vercel/ai",
+      "desc": "构建 AI Web 应用的前端/全栈 SDK，支持流式输出和多模型。",
+      "why": "适合做聊天应用、生成器、Agent UI。"
+    },
+    {
+      "name": "ComfyUI",
+      "type": "Project",
+      "category": "Creative Tools",
+      "tags": [
+        "Image",
+        "Nodes",
+        "Stable Diffusion"
+      ],
+      "url": "https://github.com/comfyanonymous/ComfyUI",
+      "desc": "节点式 Stable Diffusion 工作流，可视化拼装图像生成流程。",
+      "why": "创作者圈热门，适合做海报、角色图、产品图批处理。"
+    },
+    {
+      "name": "InvokeAI",
+      "type": "Project",
+      "category": "Creative Tools",
+      "tags": [
+        "Image",
+        "Creator",
+        "UI"
+      ],
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "desc": "面向创作者的 Stable Diffusion Web UI，操作更友好。",
+      "why": "比纯节点更适合普通创作者入门。"
+    },
+    {
+      "name": "Fooocus",
+      "type": "Project",
+      "category": "Creative Tools",
+      "tags": [
+        "Image",
+        "Easy",
+        "SDXL"
+      ],
+      "url": "https://github.com/lllyasviel/Fooocus",
+      "desc": "主打像 Midjourney 一样简单的开源图片生成工具。",
+      "why": "降低 Stable Diffusion 使用门槛。"
+    },
+    {
+      "name": "Open WebUI",
+      "type": "Project",
+      "category": "Local AI",
+      "tags": [
+        "Ollama",
+        "Chat",
+        "Self-hosted"
+      ],
+      "url": "https://github.com/open-webui/open-webui",
+      "desc": "类 ChatGPT 界面，可连接 Ollama、本地模型和多种后端。",
+      "why": "“自己搭一个 ChatGPT”的代表项目。"
+    },
+    {
+      "name": "AnythingLLM",
+      "type": "Project",
+      "category": "Knowledge / Writing",
+      "tags": [
+        "RAG",
+        "Docs",
+        "Knowledge Base"
+      ],
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "desc": "把文档、网页、资料变成私有 AI 知识库。",
+      "why": "个人/团队资料问答场景清晰。"
+    },
+    {
+      "name": "Flowise",
+      "type": "Project",
+      "category": "Workflow / App Builders",
+      "tags": [
+        "Visual",
+        "LangChain",
+        "Builder"
+      ],
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "desc": "拖拽式 LLM 应用构建工具，基于 LangChain 生态。",
+      "why": "节点式搭建 AI 应用，视觉上很好理解。"
+    },
+    {
+      "name": "Langflow",
+      "type": "Project",
+      "category": "Workflow / App Builders",
+      "tags": [
+        "Visual",
+        "Workflow",
+        "Builder"
+      ],
+      "url": "https://github.com/langflow-ai/langflow",
+      "desc": "可视化构建 LLM 工作流，支持组件化编排。",
+      "why": "适合快速搭建聊天、检索、工具调用流程。"
+    },
+    {
+      "name": "Khoj",
+      "type": "Project",
+      "category": "Knowledge / Writing",
+      "tags": [
+        "Second Brain",
+        "Notes",
+        "Search"
+      ],
+      "url": "https://github.com/khoj-ai/khoj",
+      "desc": "个人 AI 第二大脑，可连接笔记、文档、网页。",
+      "why": "很适合长期知识管理和写作资料检索。"
+    },
+    {
+      "name": "Obsidian Copilot",
+      "type": "Plugin",
+      "category": "Knowledge / Writing",
+      "tags": [
+        "Obsidian",
+        "Writing",
+        "Notes"
+      ],
+      "url": "https://github.com/logancyang/obsidian-copilot",
+      "desc": "把 AI 带进 Obsidian 本地笔记系统。",
+      "why": "适合笔记总结、文章改写、头脑风暴。"
+    },
+    {
+      "name": "Fabric",
+      "type": "Skill Library",
+      "category": "Knowledge / Writing",
+      "tags": [
+        "Prompts",
+        "Patterns",
+        "CLI"
+      ],
+      "url": "https://github.com/danielmiessler/fabric",
+      "desc": "大量可复用 AI prompts / patterns，用于总结、提炼、写作与学习。",
+      "why": "本质是 AI 技能模板库，非常贴合 skills 主题。"
+    },
+    {
+      "name": "Whisper.cpp",
+      "type": "Project",
+      "category": "Audio / Video",
+      "tags": [
+        "Transcription",
+        "Local",
+        "Audio"
+      ],
+      "url": "https://github.com/ggerganov/whisper.cpp",
+      "desc": "本地运行 Whisper 语音识别，轻量跨平台。",
+      "why": "会议转写、播客字幕、视频字幕都实用。"
+    },
+    {
+      "name": "WhisperX",
+      "type": "Project",
+      "category": "Audio / Video",
+      "tags": [
+        "Subtitle",
+        "Diarization",
+        "Video"
+      ],
+      "url": "https://github.com/m-bain/whisperX",
+      "desc": "Whisper 增强版，支持更准确时间戳和说话人分离。",
+      "why": "适合长视频、访谈、播客整理。"
+    },
+    {
+      "name": "Stable Audio Tools",
+      "type": "Project",
+      "category": "Audio / Video",
+      "tags": [
+        "Audio",
+        "Music",
+        "Generation"
+      ],
+      "url": "https://github.com/Stability-AI/stable-audio-tools",
+      "desc": "Stability AI 开源音频生成训练与推理工具。",
+      "why": "AI 音乐、音效、声音素材生成方向代表。"
+    },
+    {
+      "name": "tldraw Make Real",
+      "type": "Creative Demo",
+      "category": "Creative Tools",
+      "tags": [
+        "Prototype",
+        "Design",
+        "UI"
+      ],
+      "url": "https://github.com/tldraw/make-real",
+      "desc": "在白板上画草图，让 AI 生成可运行界面原型。",
+      "why": "“画一下就变应用”的效果很有传播性。"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GitHub Topic: AI Agent",
+      "url": "https://github.com/topics/ai-agent",
+      "value": "发现开源 AI agent 项目"
+    },
+    {
+      "name": "GitHub Topic: LLM Agents",
+      "url": "https://github.com/topics/llm-agents",
+      "value": "发现多 Agent、规划、工具调用项目"
+    },
+    {
+      "name": "GitHub Topic: MCP",
+      "url": "https://github.com/topics/mcp",
+      "value": "发现 MCP Server 与工具生态"
+    },
+    {
+      "name": "Awesome AI Agents",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "value": "建立 Agent 项目基础库"
+    },
+    {
+      "name": "Awesome LLM Apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "value": "发现可运行 LLM 应用案例"
+    },
+    {
+      "name": "Awesome MCP Servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "value": "专门采集 MCP Server"
+    },
+    {
+      "name": "Product Hunt AI",
+      "url": "https://www.producthunt.com/topics/artificial-intelligence",
+      "value": "发现最近发布的 AI 产品"
+    },
+    {
+      "name": "Hugging Face Spaces",
+      "url": "https://huggingface.co/spaces",
+      "value": "发现可试玩 AI Demo"
+    },
+    {
+      "name": "Dify Marketplace",
+      "url": "https://marketplace.dify.ai/",
+      "value": "发现低代码 AI 应用/工作流"
+    },
+    {
+      "name": "LangChain Templates",
+      "url": "https://templates.langchain.com/",
+      "value": "发现 Agent / RAG 模板"
+    }
+  ]
+}

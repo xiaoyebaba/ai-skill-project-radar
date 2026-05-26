@@ -428,6 +428,214 @@
       "url": "https://github.com/tldraw/make-real",
       "desc": "在白板上画草图，让 AI 生成可运行界面原型。",
       "why": "“画一下就变应用”的效果很有传播性。"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "type": "Skill Library",
+      "category": "AI Skills",
+      "tags": [
+        "Claude",
+        "Skills",
+        "Collection"
+      ],
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "desc": "Claude Skills 资源集合，适合寻找可复用的技能包、模板和工作流灵感。",
+      "why": "直接贴合 AI Skill Radar 主题，可作为后续技能专题的入口。"
+    },
+    {
+      "name": "Cherry Studio",
+      "type": "Project",
+      "category": "Local AI",
+      "tags": [
+        "Desktop",
+        "Multi-model",
+        "Chat"
+      ],
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "desc": "开源桌面 AI 助手，面向多模型聊天、知识管理和本地化使用。",
+      "why": "适合个人日常替代型 AI 客户端，门槛低、可试玩。"
+    },
+    {
+      "name": "CopilotKit",
+      "type": "Framework",
+      "category": "Agent Frameworks",
+      "tags": [
+        "In-app AI",
+        "React",
+        "Copilot"
+      ],
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "desc": "把 AI Copilot、聊天和 agentic UI 嵌入现有应用的开源框架。",
+      "why": "适合做产品内 AI 助手，而不是只做独立聊天窗口。"
+    },
+    {
+      "name": "browser-use Web UI",
+      "type": "Project",
+      "category": "Browser Agents",
+      "tags": [
+        "Browser",
+        "Agent",
+        "Web UI"
+      ],
+      "url": "https://github.com/browser-use/web-ui",
+      "desc": "Browser Use 的可视化 Web UI，让浏览器 Agent 的运行过程更容易观察和调试。",
+      "why": "比纯代码版本更适合演示、试用和产品化验证。"
+    },
+    {
+      "name": "activepieces",
+      "type": "Workflow",
+      "category": "Workflow / App Builders",
+      "tags": [
+        "Automation",
+        "No-code",
+        "Agents"
+      ],
+      "url": "https://github.com/activepieces/activepieces",
+      "desc": "开源自动化平台，可把 AI 节点和 SaaS 工具串成工作流。",
+      "why": "适合把 AI agent 能力落到邮件、CRM、表格等实际业务流程。"
+    },
+    {
+      "name": "IBM mcp-context-forge",
+      "type": "Tool",
+      "category": "MCP / Tools",
+      "tags": [
+        "MCP",
+        "Gateway",
+        "Enterprise"
+      ],
+      "url": "https://github.com/IBM/mcp-context-forge",
+      "desc": "面向 MCP 的上下文/工具网关项目，用于集中管理和暴露 agent 可用能力。",
+      "why": "MCP 从单机工具走向团队/企业部署时值得重点关注。"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "type": "Project",
+      "category": "Coding Agents",
+      "tags": [
+        "Coding",
+        "Agent",
+        "CLI"
+      ],
+      "url": "https://github.com/aaif-goose/goose",
+      "desc": "面向本地开发任务的开源 agent，可连接工具并执行多步骤工程任务。",
+      "why": "与 OpenHands、Aider 等一起构成开源编程 Agent 观察池。"
+    },
+    {
+      "name": "ClickHouse Nerve",
+      "type": "Runtime",
+      "category": "Agent Frameworks",
+      "tags": [
+        "Self-hosted",
+        "Runtime",
+        "Agents"
+      ],
+      "url": "https://github.com/ClickHouse/nerve",
+      "desc": "Hacker News 上出现的自托管 AI agent runtime。",
+      "why": "运行时/沙箱/任务执行层是 Agent 落地的关键基础设施。"
+    },
+    {
+      "name": "FellouAI/eko",
+      "type": "Project",
+      "category": "Browser Agents",
+      "tags": [
+        "Agent",
+        "Browser",
+        "Automation"
+      ],
+      "url": "https://github.com/FellouAI/eko",
+      "desc": "围绕浏览器和任务自动化的 agent 项目，来自 LLM Agents 主题。",
+      "why": "浏览器 Agent 仍是最直观的 AI 自动执行方向之一。"
+    },
+    {
+      "name": "agenticSeek",
+      "type": "Project",
+      "category": "Agent Frameworks",
+      "tags": [
+        "Agent",
+        "Search",
+        "Open Source"
+      ],
+      "url": "https://github.com/Fosowl/agenticSeek",
+      "desc": "开源 agentic search / research 项目，面向多步骤信息检索与任务执行。",
+      "why": "适合观察 AI 搜索从问答走向自动研究的产品形态。"
+    },
+    {
+      "name": "SafeDB MCP",
+      "type": "Tool",
+      "category": "MCP / Tools",
+      "tags": [
+        "MCP",
+        "Database",
+        "Safety"
+      ],
+      "url": "https://github.com/narekmalk/safedb-mcp",
+      "desc": "为 AI agents 提供更安全的只读数据库访问 MCP 工具。",
+      "why": "数据库连接是高价值也高风险场景，只读安全边界很实用。"
+    },
+    {
+      "name": "terminal-guardian-mcp",
+      "type": "Tool",
+      "category": "MCP / Tools",
+      "tags": [
+        "MCP",
+        "Terminal",
+        "Safety"
+      ],
+      "url": "https://github.com/7Majesty-M/terminal-guardian-mcp",
+      "desc": "用于防止 AI agents 执行破坏性终端命令的 MCP 安全工具。",
+      "why": "Agent 权限治理会越来越重要，尤其是可执行 shell 的场景。"
+    },
+    {
+      "name": "Agentic Patterns",
+      "type": "Article",
+      "category": "Agent Frameworks",
+      "tags": [
+        "Patterns",
+        "Architecture",
+        "Agents"
+      ],
+      "url": "https://veso.ai/research/agentic-patterns/",
+      "desc": "系统梳理 Agentic AI 常见模式与架构思路的文章。",
+      "why": "适合沉淀成中文学习笔记或 Agent 设计清单。"
+    },
+    {
+      "name": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "type": "Article",
+      "category": "Agent Frameworks",
+      "tags": [
+        "Glossary",
+        "Agents",
+        "Hugging Face"
+      ],
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "desc": "Hugging Face 对 harness、scaffold 等 Agent 术语的解释。",
+      "why": "有助于统一 Agent 讨论中的概念，适合做术语卡片。"
+    },
+    {
+      "name": "The Open Agent Leaderboard",
+      "type": "Article",
+      "category": "Agent Frameworks",
+      "tags": [
+        "Benchmark",
+        "Leaderboard",
+        "Agents"
+      ],
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "desc": "IBM Research 在 Hugging Face 发布的开放 Agent 排行榜介绍。",
+      "why": "Agent 评测与基准会影响后续项目选择和模型对比。"
+    },
+    {
+      "name": "[AINews] All Model Labs are now Agent Labs",
+      "type": "Podcast",
+      "category": "Audio / Video",
+      "tags": [
+        "Podcast",
+        "Agent Labs",
+        "Latent Space"
+      ],
+      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+      "desc": "Latent Space / AINews 关于模型实验室向 Agent 实验室转向的音频内容。",
+      "why": "适合了解行业叙事：模型能力之外，Agent 产品和工具链成为新焦点。"
     }
   ],
   "sources": [
